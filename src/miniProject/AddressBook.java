@@ -1,6 +1,6 @@
 package miniProject;
 
-public class Person {
+public class AddressBook {
 	
 	//필드
 	private String name;
@@ -8,9 +8,9 @@ public class Person {
 	private String company;
 	
 	//생성자
-	public Person() {}
+	public AddressBook() {}
 	
-	public Person(String name, String hp, String company) {
+	public AddressBook(String name, String hp, String company) {
 		this.name = name;
 		this.hp = hp;
 		this.company = company;

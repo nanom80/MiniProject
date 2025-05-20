@@ -11,7 +11,7 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.util.Scanner;
 
-public class Ex01 {
+public class PhoneApp {
 	
 	public static void main(String[] args) throws IOException {
 		
